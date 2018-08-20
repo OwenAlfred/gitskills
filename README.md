@@ -1,4 +1,4 @@
 # gitskills
 test git clone
-Creating a new branch is quick and simple.
+Creating new branch is quick and simple.
 add merge.
